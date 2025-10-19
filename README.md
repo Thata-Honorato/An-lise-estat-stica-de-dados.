@@ -82,5 +82,4 @@ O conjunto de dados contém informações sobre **500 clientes**, incluindo cham
 
 - Todos os notebooks originais estão hospedados na plataforma TripleTen e não podem ser alterados.  
 - Este repositório documenta o projeto e o aprendizado adquirido.  
-- Certifique-se de adicionar explicações detalhadas em células Markdown e organizar gráficos com títulos, legendas e eixos rotulados.
-EOF
+
